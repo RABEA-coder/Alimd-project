@@ -1,0 +1,6 @@
+:root{
+    --bg-color:#ecf0f3;
+    --pink:#ff014f;
+    --black-color:#3c3e41;
+    --line-color:#8e8e9e;
+}
