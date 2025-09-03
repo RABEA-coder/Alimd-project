@@ -242,6 +242,9 @@
   .table {
     display: table;
   }
+  .h-\[0vh\] {
+    height: 0vh;
+  }
   .h-\[10vh\] {
     height: 10vh;
   }
